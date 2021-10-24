@@ -1,0 +1,1 @@
+# fluentd-plugin-gemfile-sample
